@@ -7,7 +7,7 @@
     "start": "twilio-run --env"
   },
   "devDependencies": {
-    "@types/qs": "6.9.4"
+    "@types/qs": "6.9.4",
     "twilio-run": "^2.0.0"
   },
   "engines": {
